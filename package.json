@@ -1,0 +1,19 @@
+{
+  "name": "base-node-tutorial",
+  "version": "0.0.1",
+  "description": "Simple multiplication tables with file save",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josuesyc",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
